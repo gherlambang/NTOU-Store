@@ -24,12 +24,12 @@
   width: 150px;
 }
 
-.amazon-logo {
+.ntou-logo {
   width: 100px;
   margin-top: 12px;
 }
 
-.amazon-mobile-logo {
+.ntou-mobile-logo {
   display: none;
 }
 
@@ -38,11 +38,11 @@
     width: auto;
   }
 
-  .amazon-logo {
+  .ntou-logo {
     display: none;
   }
 
-  .amazon-mobile-logo {
+  .ntou-mobile-logo {
     display: inline-block;
     height: 35px;
     margin-top: 5px;
