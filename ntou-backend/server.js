@@ -99,6 +99,6 @@ app.delete('/cart', (req, res) => {
 /* -------------------------------
    SERVER START
 -------------------------------- */
-app.listen(port, () => {
+app.listen(port, '0.0.0.0', () => {
   console.log(`Backend server is running at http://localhost:${port}`);
 });
