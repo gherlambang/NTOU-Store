@@ -109,6 +109,6 @@ export function loadCart(fun){
     fun();
   });
 
-  xhr.open('GET', 'https://supersimplebackend.dev/cart');
+  xhr.open('GET', 'https://final-project-65hl.onrender.com/cart');
   xhr.send();
 }
